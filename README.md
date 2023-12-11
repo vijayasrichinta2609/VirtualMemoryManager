@@ -259,6 +259,7 @@ TLB Hit Ratio: 0.142857
 TLB Miss Ratio: 0.857143
 Page Table Hit Ratio: 0.142857
 Page Table Miss Ratio: 0.714286
+
 ----------------------------------------
 Effective Memory Access Time (EMAT): 195.714 ns
 
