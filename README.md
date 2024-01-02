@@ -1,4 +1,4 @@
-# Data Science Lifecycle for Virtual Memory Manager Project
+# Virtual Memory Manager Project using C++
 
 ## 1. **Problem Definition and Understanding**
 
